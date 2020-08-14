@@ -12,7 +12,7 @@ Mais do que saber usar ferramentas de desenvolvimento **é fundamental entender 
 2.2 A grande vantagem das Bibliotecas|
 3. Qual é a diferença entre Frameworks e bibliotecas?|
 
-## O que é Framework?1. O que é Framework?
+## 1. O que é Framework?
 
 Pode-se dizer que um [framework](https://blog.cedrotech.com/qual-melhor-framework-de-gestao-de-projetos-de-ti/) é uma base sólida e padronizada para a construção de uma aplicação.
 
