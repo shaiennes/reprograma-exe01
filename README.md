@@ -27,6 +27,8 @@ Um outro exemplo são os famosos Frameworks Model-View-Controller (MVC), que sep
 
 ## O que são Bibliotecas?
 ![bibliotecas](https://media.giphy.com/media/7E8lI6TkLrvvAcPXso/giphy.gif)
+&nbsp;
+
 Esse é o recurso mais utilizado no mundo da programação e muitas pessoas nem se dão conta do quanto utilizam. A ideia da biblioteca é compartilhar soluções por meio de funções ou métodos.
 
 Se você tiver que fazer um trabalho de matemática, por exemplo, poderá ir até uma biblioteca física, pegar um livro e utilizar equações desenvolvidas no livro. Então, não será preciso desenvolver as equações desde o início. Em outras palavras, você não precisa reinventar a roda! 
