@@ -9,8 +9,8 @@ Mais do que saber usar ferramentas de desenvolvimento **é fundamental entender 
 ------------ | 
 1. O que é Framework? | 
 2. O que são Bibliotecas? | 
-2.2 A grande vantagem das Bibliotecas|
-3. Qual é a diferença entre Frameworks e bibliotecas?|
+3. A grande vantagem das Bibliotecas|
+4. Qual é a diferença entre Frameworks e bibliotecas?|
 
 ## 1. O que é Framework?
 
