@@ -1,3 +1,4 @@
+![imagem destaque](https://github.com/shaiennes/reprograma-exe01/blob/master/frameworks.png)
 # Frameworks e Bibliotecas: o que são e qual diferença?
 
 ###### ***Conheça os conceitos básicos sobre Frameworks e Bibliotecas para aprimorar seu trabalho de desenvolvimento***
@@ -14,8 +15,6 @@ Mais do que saber usar ferramentas de desenvolvimento **é fundamental entender 
 
 ## 1. O que é Framework?
 
-![imagem destaque](https://github.com/shaiennes/reprograma-exe01/blob/master/frameworks.png)
-&nbsp;
 Pode-se dizer que um [framework](https://blog.cedrotech.com/qual-melhor-framework-de-gestao-de-projetos-de-ti/) é uma base sólida e padronizada para a construção de uma aplicação.
 
 Ou seja, é uma estrutura genérica que fornece uma arquitetura padrão, um esqueleto com a qual podemos desenvolver um software específico que pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um [aplicativo](https://blog.cedrotech.com/usar-framework-adobe-phonegap-ou-desenvolver-app-de-forma-nativa/) mobile, por exemplo.
