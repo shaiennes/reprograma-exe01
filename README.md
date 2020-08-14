@@ -14,6 +14,8 @@ Mais do que saber usar ferramentas de desenvolvimento **é fundamental entender 
 
 ## 1. O que é Framework?
 
+![imagem destaque](https://github.com/shaiennes/reprograma-exe01/blob/master/frameworks.png)
+&nbsp;
 Pode-se dizer que um [framework](https://blog.cedrotech.com/qual-melhor-framework-de-gestao-de-projetos-de-ti/) é uma base sólida e padronizada para a construção de uma aplicação.
 
 Ou seja, é uma estrutura genérica que fornece uma arquitetura padrão, um esqueleto com a qual podemos desenvolver um software específico que pode ser construído utilizando-se diversas bibliotecas e integrado a APIs de forma a oferecer uma estrutura ideal para o desenvolvimento de um [aplicativo](https://blog.cedrotech.com/usar-framework-adobe-phonegap-ou-desenvolver-app-de-forma-nativa/) mobile, por exemplo.
@@ -62,7 +64,7 @@ Essa característica de já ter uma estrutura é o principal diferencial entre u
 Você pode notar que em nenhum momento nós chamamos alguma função como Angular.nomeFuncao(). Eventualmente, caso queira fazer algo num fluxo ou estrutura diferente, o Angular não vai entender e você terá um erro.
 
 **Espero que este conteúdo seja uma espécie de complemento do seu aprendizado, na jornada de desenvolvimento** e que ao término desta leitura, todas as suas dúvidas tenham sido sanadas.
-
+&nbsp;
 ![fim](https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif)
 
 
